@@ -9,7 +9,10 @@ The suggested reference books include:
 - [Operating System Concepts](https://www.oreilly.com/library/view/operating-system-concepts/9780470128725/silb_9780470128725_oeb_toc_r1.html) 
 - Hands-On Design Patterns with Java
 
-The Hands-On Design Patterns with Java is through an account on [Vital Source](https://www.vitalsource.com/); although I must say its basically a chopped up Java rendition of [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) and a lot of the information is delivered well by [Refactoring Guru](https://refactoring.guru/design-patterns).
+### Other Resources 
+- [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+- [Maven](https://maven.apache.org/what-is-maven.html)
 
 ---
 
